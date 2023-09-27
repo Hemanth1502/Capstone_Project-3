@@ -1,0 +1,7 @@
+node modules
+=============
+1)axios
+2)fort awesome-->follow these commands
+	npm i --save @fortawesome/fontawesome-svg-core
+	npm install --save @fortawesome/free-solid-svg-icons
+	npm install --save @fortawesome/react-fontawesome
